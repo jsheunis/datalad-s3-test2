@@ -1,0 +1,1 @@
+39be3c83-dee6-47fc-968f-c7a6f10fbfc6 autoenable=true bucket=jsheunis-public2 datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3-v2 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1620829301.559447s
